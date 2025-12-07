@@ -1,9 +1,8 @@
 <script>
     import MainListContainer from "../containers/MainListContainer.svelte";
-    import IntroMe from '../components/common/Intro.svelte';
-    import TimelineCards from '../components/common/HistoryCards.svelte';
-    import SkillMatrix from "../components/main/SkillMatrix.svelte";
-    
+    import MyIntro from '../components/common/MyIntro.svelte';
+    import HistoryCards from '../components/common/HistoryCards.svelte';
+    import SkillMatrix from "../components/main_files/SkillMatrix.svelte"; 
     import NowListContainer from "../containers/NowListContainer.svelte";
     import PopularListContainer from "../containers/PopularListContainer.svelte";
     import UpcomingListContainer from "../containers/UpcomingListContainer.svelte";
@@ -12,11 +11,11 @@
 <MainListContainer />
 
 <div style="margin-top: 50px;">
-    <IntroMe />
+    <MyIntro />
 </div>
 
 <div id="timeline" style="margin-top: 80px; scroll-margin-top: 140px;">
-    <TimelineCards />
+    <HistoryCards />
 </div>
 
 <div style="height: 100px;"></div>
