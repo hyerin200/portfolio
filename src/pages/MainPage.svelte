@@ -1,7 +1,7 @@
 <script>
     import MainListContainer from "../containers/MainListContainer.svelte";
-    import IntroMe from '../components/main_files/IntroMe.svelte';
-    import HistoryCards from '../components/main_files/HistoryCards.svelte'; 
+    import IntroMe from '../components/common/IntroMe.svelte';
+    import HistoryCards from '../components/common/HistoryCards.svelte';
     import SkillMatrix from "../components/main/SkillMatrix.svelte";
     
     import NowListContainer from "../containers/NowListContainer.svelte";
