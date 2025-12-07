@@ -1,6 +1,6 @@
 <script>
     import MainListContainer from "../containers/MainListContainer.svelte";
-    import IntroMe from "../components/main/IntroMe.svelte";
+    import IntroMe from "../import IntroMe from '../components/main/MyIntro.svelte";
     import TimelineCards from "../components/main/TimelineCards.svelte"; 
     import SkillMatrix from "../components/main/SkillMatrix.svelte";
     
