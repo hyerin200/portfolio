@@ -77,7 +77,7 @@
                 title: "의대정원 증가와 집값 변동",
                 date: "2024 ",
                 overview: "조사 결과, 지역 의료 시스템의 안정성과 공공의료 서비스의 질 향상은 단순한 의료 인력 확충에 그치지 않고, 체계적인 지역 관리와 제도적 보완이 필수적임을 확인할 수 있었습니다. 이는 부동산 시장에서 단순한 주택 공급 확대만으로는 지역 가치가 상승하지 않고, 기반 시설과 제도적 환경 개선이 함께 이루어져야 하는 점과 유사합니다. 따라서 의료 인력의 균형 있는 배치와 지역 맞춤형 정책이 장기적으로 지역사회 건강과 경제 활성화에 중요한 역할을 할 것으로 분석했습니다.",
-                poster_path: 'https://drive.google.com/thumbnail?id=1Zy_TkNwXhE938z7-k4XKin2uoFU-GyMZ&sz=w2000'
+                poster_path: 'https://drive.google.com/thumbnail?id=1Zy_TkNwXhE938z7-k4XKin2uoFU-GyMZ&sz=w1000',
 
             };
         } else if (itemId === 4) {
